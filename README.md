@@ -12,8 +12,9 @@ nakeinterp1 mex code
 
 compilation on mac / windows tested simply run those 2 commands if the testCow failed on you computer:
 
-mex cowc_mex.cpp
-mex nakeinterp1.c
+mex cowc_mex.cpp;
+
+mex nakeinterp1.c;
 
 you may need to setup your mex environment first.
 
